@@ -1,14 +1,14 @@
-# Summer Chores Callback Version
+# Summer Chores
 
 ## Description
 
-Someone has a list of summer chores they have to do every Saturday There are a lot of chores for them to do and naturally get more tired throughout completing their tasks. If they get too tired, they may have to take a break and go to sleep before completing their chores.
+Someone has a list of summer chores they have to do every Saturday. There are a lot of chores for them to do, and naturally get more tired throughout completing their tasks. If they get too tired, they may have to take a break and go to sleep before completing their chores.
 
 They have a strict routine, which follows in order:
 
-1. Mowing the yard
-2. Weedeating the edges of the house and fence line
-3. Trimming the hedges
+1. Mow the yard
+2. Weed eat the edges of the house and fence line
+3. Trim the hedges
 4. Collect fallen wood for summer night fires
 5. Water the garden
 
@@ -26,19 +26,28 @@ If they manage not to get tired and fall asleep while doing their chores, they h
 
 ## Installation Instructions
 
-- Install Visual Studio Code
-- Install Node.js
+1. Install Visual Studio Code
+2. Install Node.js
 
 ## Usage
 
-1. Replace the person's name on the last line of the code (in callbackVersion.js)
-2. Run node callbackVersion.js in your isterminal
+1. Replace the person's name on the last line of the code
+2. Run the JavaScript file in the terminal with command: 
+```bash
+node filename.js
+```
 
 ## Examples
 
-Here’s a quick demo of how the code runs in the terminal:
+Here are demos of how the code runs in the terminal:
 
-![Terminal Screenshot](screenshots/callbackVersion.png)
+### Callback Version
+
+![Callback version terminal screenshot](screenshots/callbackVersion.png)
+
+### Promise Version
+
+![Promise version terminal screenshot](screenshots/promiseVersion.png)
 
 ## Credits
 
