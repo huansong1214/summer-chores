@@ -39,7 +39,7 @@ node filename.js
 
 ## Examples
 
-Here are demos of how the code runs in the terminal:
+Below are terminal output screenshots showing how the code works using different asynchronous approaches:
 
 ### Callback Version
 
@@ -48,6 +48,10 @@ Here are demos of how the code runs in the terminal:
 ### Promise Version
 
 ![Promise version terminal screenshot](screenshots/promiseVersion.png)
+
+### Async/Await Version
+
+![Async/Await version terminal screenshot](screenshots/asyncAwaitVersion.png)
 
 ## Credits
 
